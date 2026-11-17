@@ -1,10 +1,11 @@
 # 实践课 3：Pi Agent 源码安装与编译
 
-- 实践日期：2026-11-17
-- 小组源码仓库：[MangDui/pi-hunnu-2026](https://github.com/MangDui/pi-hunnu-2026)
-- 实验目录：`D:\pi-hunnu-2026`
-- 分支：`main`
-- 源码提交：`c3cc91632d0a1950fb122605b190233f2aa0006e`
+| 项目 | 记录 |
+| --- | --- |
+| GitHub 账号 | `LSX-item` |
+| 小组组织 | `MangDui` |
+| 实验目录 | `D:\pi-hunnu-2026` |
+| 分析版本 | `c3cc91632d0a1950fb122605b190233f2aa0006e` |
 
 ## 1. 任务一：检查开发环境
 
